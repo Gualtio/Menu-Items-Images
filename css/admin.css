@@ -1,0 +1,13 @@
+.menu-item-image-wrapper img {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.menu-item-image-remove {
+  color: #a00 !important;
+  margin-left: 5px;
+}
+
+.menu-item-image-remove:hover {
+  color: #dc3232 !important;
+}
